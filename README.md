@@ -95,7 +95,7 @@ Pull requests are welcome!
 
 ## 📜 License
 
-This project is licensed under MIT
+This project is licensed under the [MIT LICENSE](LICENSE).
 
 ## 👩‍💻 Author
 Shammah Akosile
