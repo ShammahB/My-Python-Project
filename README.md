@@ -69,13 +69,13 @@ weatherdescription: ☁️ broken clouds
 
 ## 👩‍💻 Code Snippet
 
-import sys
-import requests
-from PyQt5.QtWidgets import (QApplication, QWidget, QLabel,
+    import sys
+    import requests
+    from PyQt5.QtWidgets import (QApplication, QWidget, QLabel,
                              QLineEdit, QPushButton, QVBoxLayout)
-from PyQt5.QtCore import Qt
+    from PyQt5.QtCore import Qt
 
- def get_weather(self):
+    def get_weather(self):
         
         api_key = "your_api_key_here"
         city = self.city_input.text()
